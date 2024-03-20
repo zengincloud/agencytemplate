@@ -196,7 +196,7 @@ blockquote {
 }
 
 .tm-hero-title {
-  font-size: 3.5rem;
+  font-size: 5.5rem;
   text-shadow: 2px 2px 2px #333;
 }
 
@@ -535,7 +535,7 @@ figure.effect-honey:hover h2 i {
 
 .item-link i,
 .item-link span {
-  color: white;
+  color: #103A31;
   transition: all 0.3s ease;
 }
 
@@ -569,7 +569,7 @@ figure.effect-honey:hover h2 i {
 
 ::placeholder {
   /* Chrome, Firefox, Opera, Safari 10.1+ */
-  color: white;
+  color: #103A31;
   opacity: 1; /* Firefox */
 }
 
