@@ -377,6 +377,9 @@ blockquote {
   background: #3085a3;
   text-align: center;
   cursor: pointer;
+  width: 220px; /* Set a fixed width */
+  height: 400px; /* Set a fixed height */
+  margin: 15px; /* Add margin to separate items */
 }
 
 .grid figure img {
