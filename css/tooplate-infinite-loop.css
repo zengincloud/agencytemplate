@@ -146,7 +146,7 @@ blockquote {
 
 #infinite {
 	background-color: #222;
-  background-image: url(../img/infinite-loop-011.jpg);
+  background-image: url(../img/green1.jpg);
   background-repeat: no-repeat;
   height: 100vh;
   min-height: 375px;
@@ -237,7 +237,7 @@ blockquote {
 .tm-down-arrow:hover,
 .tm-down-arrow:focus {
   color: #FFF;
-  background: #DA78FF;
+  background: #06B658;
   padding: 20px 50px;
 }
 
@@ -258,7 +258,7 @@ blockquote {
 
 .tm-icon {
   display: block;
-  color: #37A;
+  color: #0C3412;
 }
 
 .tm-continue {
@@ -268,7 +268,7 @@ blockquote {
 /* Testimonials */
 #testimonials {
   color: #EEEFDF;
-  background-image: url(../img/infinite-loop-011.jpg);
+  background-image: url(../img/backgroundnewgreen.jpeg);
   background-size: cover;
   background-repeat: no-repeat;
   background-size: 100%;
